@@ -1,4 +1,4 @@
-## 提交作业规则
+## ⭐ 提交作业规则 ⭐
 
 -   **提交第一天作业**：
 
@@ -10,7 +10,8 @@
 
     -   第一天作业提交成功后，你会收到邀请加入这个仓库 contribution 的邮件（请记得接受邀请），接受邀请后你将获得 main 分支的 push 权限。
     -   从第二天作业开始，你需要将每天作业按要求更新到该日的 Assignments 文件夹中。（提交之前，请记得 git pull 哦）
-    -   **⚠️⚠️⚠️ 只可以修改你自己的文件，请不要修改其他人的文件**
+    -   如果范例作业为 00-GithubID-AssignmentName.sol，复制并重命名为 YourStudentID-YourGithubID-AssignmentName.sol（如 08-linghuccc-SaveMyName.sol ），并按照课程要求修改内容；如果范例作业为 00-GithubID 文件夹，复制文件夹并重命名为 YourStudentID-YourGithubID 文件夹（如 08-linghuccc ），并按照课程要求，在文件夹内提交作业。
+    -   **⚠️⚠️⚠️ 只可以修改你自己的文件/文件夹，请不要修改其他人的文件/文件夹**
 
 ## 我的 Github ID 是什么？
 
