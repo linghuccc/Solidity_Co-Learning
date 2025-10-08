@@ -18,7 +18,7 @@
 | [🙌Solidity 编程工具](https://docs.google.com/document/d/1oKys9HHUlp5fjghRK1xVogQGOzBEO8Lw_msFMWc1A5Y/edit?tab=t.l0otaq65kc28) | 编程工具（欢迎贡献）    |
 | [🧙‍♂️ Q & A](https://docs.google.com/document/d/1oKys9HHUlp5fjghRK1xVogQGOzBEO8Lw_msFMWc1A5Y/edit?tab=t.yhjs0safg6ey)            | 提问 / 答疑（欢迎提问） |
 
-## ⭐ 提交作业规则 ⭐
+## ⭐ 作业提交规则 ⭐
 
 -   **提交第一天作业**：
 
