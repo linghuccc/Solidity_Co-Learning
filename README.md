@@ -30,7 +30,7 @@
 
     -   第一天作业提交成功后，你会收到邀请加入这个仓库 contribution 的邮件（**请记得接受邀请**），接受邀请后你将获得 main 分支的 push 权限。
     -   从第二天作业开始，你需要将每天作业按要求更新到该日的文件夹中。（**提交之前，请记得 git pull 哦**）
-    -   如果范例作业为 00-GithubID.sol，复制并重命名为 YourStudentID-YourGithubID.sol（如 08-linghuccc.sol ），并按照课程要求修改内容；<br>如果范例作业为 00-GithubID 文件夹，复制文件夹并重命名为 YourStudentID-YourGithubID 文件夹（如 08-linghuccc），并按照课程要求，在文件夹内提交作业。
+    -   如果作业只需要提交一个 solidity 文件，请复制 00-GithubID.sol 并重命名为 YourStudentID-YourGithubID.sol（如 08-linghuccc.sol ），并按照课程要求修改内容；<br>如果作业需要提交数个文件，请新建名为 YourStudentID-YourGithubID 的文件夹（如 08-linghuccc），并按照课程要求，在文件夹内提交所需文件。
     -   **⚠️⚠️⚠️ 只可以修改你自己的文件/文件夹，请不要修改其他人的文件/文件夹**
 
 ## ⭐ 我的 Github ID 是什么？⭐
